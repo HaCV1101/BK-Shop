@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="StoreManegement:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StoreManegement_jar</output-path>
+    <root id="archive" name="StoreManegement_jar.jar">
+      <element id="module-output" name="StoreManegement" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/swing-worker-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/filters-2.0.235.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/TimingFramework-0.55.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/mysql-connector-java-8.0.29.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/swingx-1.6.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

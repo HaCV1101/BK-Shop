@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "src/lib/filters-2.0.235.jar",
+        "src/lib/mysql-connector-java-8.0.29.jar",
+        "src/lib/swing-worker-1.1.jar",
+        "src/lib/swingx-1.6.1.jar",
+        "src/lib/TimingFramework-0.55.jar"
+    ]
+}
